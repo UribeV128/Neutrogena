@@ -1,0 +1,42 @@
+.titulo{
+    font-family:constantia;
+    font-size: 50px;
+    text-align: center;
+    
+}
+.mb-4{
+    text-align: left;
+}
+
+body{
+    margin: 0;
+}
+.container-fluid{
+    margin-bottom: 3%;
+}
+.caro{
+    width: 100%;
+    margin-bottom: 3%;
+}
+.carousel-control-next-icon{
+    filter: invert(108%);
+}
+
+.btn{
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+.btn:hover{
+    background-color: rgb(127, 255, 206);
+}
+hr{
+    margin-top: 0;
+    margin-bottom: 3%;
+}
+.text{
+    text-align: right;
+}
+
+.ratio ratio-16x9{
+    text-align: left;
+}
